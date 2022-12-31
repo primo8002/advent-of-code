@@ -1,5 +1,6 @@
 # skip AoC input files
 *.in
+*.ex
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
